@@ -1,0 +1,8 @@
+{
+	"name": "sizes",
+	"description": "Basically core.time.Duration, but for byte sizes (file size)",
+	"license": "BSL-1.0",
+	"authors": ["Nicolas Sicard", "webfreak"],
+	"copyright": "Copyright © 2014 - 2018, Nicolas Sicard, webfreak",
+	"targetType": "library"
+}
